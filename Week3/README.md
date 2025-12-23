@@ -182,7 +182,7 @@ Learn how to profile kernels and interpret key GPU metrics.
 [https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/](https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/)
 
 📄 Bank Conflicts Explained:
-[https://developer.nvidia.com/blog/avoiding-bank-conflicts-cuda/](https://developer.nvidia.com/blog/avoiding-bank-conflicts-cuda/)
+[https://developer.nvidia.com/blog/avoiding-bank-conflicts-cuda/)](https://github.com/Kobzol/hardware-effects-gpu/blob/master/bank-conflicts/README.md)
 
 These two posts alone explain **90% of practical shared memory performance issues**.
 
